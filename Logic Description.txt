@@ -1,0 +1,15 @@
+First Two files Of authentication.js and bubbleSort.js we have converted the normal javascript code to es6 format with all the features of REST,SPREAD,FOR OF,LET eTC.
+in BigBang.js file the problem statement was solved by giving the season num and episode number as arguement and checking the values of the both from the given json variable,
+while iterating through the json if the season and episode number matches with the input value the boolean value turned to become true and print the value of the detailed episode using console.log.
+
+
+
+In second problem statement its taking id as input and checking the input id with the json id's if the value match and it gives true it gives us the complete details of paricular id by returning the array in which we 
+pushed the object and it returned one object.And that is printed on console,
+
+similarly the third function have accepted the name as parameter and checked the name from the json with the given argument if it gives true it will write the whole object array as details of particular episode
+else it will give alert of "No such episodes or season exists" if the episode name is not found in given json.
+
+Have tried all the ways to use ES6 Features wherever required
+
+
